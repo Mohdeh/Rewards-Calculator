@@ -8,4 +8,5 @@ Given a record of every transaction during a three month period, calculate the r
 
 
 - Use React JS
-- Make up a data set to best demonstrate your solution
+- Make up a data set to best demonstrate the solution
+- Check solution into GitHub
