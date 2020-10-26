@@ -70,6 +70,8 @@ testRecordsList.addRecord(400);
 testRecordsList.addRecord(550);
 let arr = testRecordsList.getAllRecords();
 
+
+// Testing the created transaction record list for verification
 for (let i=0; i<arr.length; i++) {
     console.log(arr[i]);
 }
